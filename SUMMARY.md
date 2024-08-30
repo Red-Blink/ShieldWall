@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Home](README.md)
+* [Home &](README.md)
 * [Learn](learn.md)
 
 ## Contributers
