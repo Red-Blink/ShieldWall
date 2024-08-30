@@ -2,11 +2,13 @@
 description: Here are some useful online resources to feed your brain!
 ---
 
-# Learn
+# Resources
 
+{% hint style="success" %}
 💪 Education is your best investment.
+{% endhint %}
 
-## 📰 **Security Blogs and Websites**
+### :page\_facing\_up: S**ecurity Blogs and Websites**
 
 #### 1. Krebs on Security
 
@@ -28,7 +30,7 @@ Offers daily diary entries and analysis of emerging cybersecurity threats and in
 
 {% embed url="https://isc.sans.edu/" %}
 
-## 🛠️ Tools & Platforms
+### :tools:  Tools & Platforms
 
 #### 1. Kali Linux
 
@@ -52,7 +54,7 @@ Nmap is an open-source tool for network discovery and security auditing, used to
 
 {% embed url="https://nmap.org/" %}
 
-## 🧙 **Communities and Forums**
+### :mage: C**ommunities and Forums**
 
 #### 1. Reddit - r/cybersecurity
 
