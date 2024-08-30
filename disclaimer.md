@@ -8,6 +8,10 @@ description: >-
 
 ### 1. **Educational Purpose**
 
+{% hint style="info" %}
+Test
+{% endhint %}
+
 The content provided on this website is intended for educational purposes only. Our guides and how-tos are designed to enhance your understanding of cybersecurity concepts and practices. The information is not intended for use in any illegal activities or to exploit vulnerabilities without proper authorization.
 
 ### 2. **Information Accuracy and Reliability**
