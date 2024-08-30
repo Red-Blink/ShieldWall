@@ -1,6 +1,10 @@
-# Home
+---
+description: >-
+  The best how-to guides for cybersecurity enthusiasts. Enhance your skills and
+  fortify your defenses. Knowledge is your best investment.
+---
 
-### The best how-to guides for cybersecurity enthusiasts. Enhance your skills and fortify your defenses. Knowledge is your best investment.
+# Home
 
 {% hint style="info" %}
 :fire: **HOT TOPICS:**
