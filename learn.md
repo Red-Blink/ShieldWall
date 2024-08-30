@@ -8,7 +8,7 @@ description: Here are some useful online resources to feed your brain!
 💪 Education is your best investment.
 {% endhint %}
 
-## **Security Blogs and Websites**
+## 📰 **Security Blogs and Websites**
 
 ### 1. Krebs on Security
 
@@ -30,9 +30,7 @@ Offers daily diary entries and analysis of emerging cybersecurity threats and in
 
 {% embed url="https://isc.sans.edu/" %}
 
-{% hint style="info" %}
-## Tools & Platforms
-{% endhint %}
+## 🛠️ Tools & Platforms
 
 ### 1. Kali Linux
 
@@ -62,9 +60,7 @@ Burp Suite is a tool for web application security testing, providing features fo
 
 {% embed url="https://portswigger.net/burp" %}
 
-{% hint style="info" %}
-## **Communities and Forums**
-{% endhint %}
+## 🧙 **Communities and Forums**
 
 ### 1. Reddit - r/cybersecurity
 
