@@ -1,5 +1,7 @@
 ---
-description: By visiting ShieldWall, you agree to the terms of this website.
+description: >-
+  By accessing ShieldWall, you accept and agree to the terms and conditions of
+  this website.
 ---
 
 # Disclaimer
