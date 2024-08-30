@@ -7,10 +7,6 @@ description: >-
 # Home
 
 {% hint style="info" %}
-Test
-{% endhint %}
-
-{% hint style="info" %}
 :fire: **HOT TOPICS:**
 
 * Learn how to "Coming Soon".
