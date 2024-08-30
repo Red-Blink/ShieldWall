@@ -1,7 +1,6 @@
 # Table of contents
 
 * [Home](README.md)
-* [Learn](learn.md)
 
 ## Contributers
 
@@ -10,4 +9,5 @@
 
 ***
 
+* [Resources](resources.md)
 * [Disclaimer](disclaimer.md)
