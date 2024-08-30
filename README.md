@@ -16,4 +16,4 @@ description: >-
 
 Do you like writing guides and sharing valuable information? Scale, share, and amplify your knowledge. [Your pull request contributions are welcome on GitHub!](https://github.com/Red-Blink/ShieldWall)
 
-For more information, please check our Write & Share section.
+For more information, please check our [Write & Share](https://www.shieldwall.pro/contributers/write-and-share) section.
