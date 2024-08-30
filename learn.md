@@ -4,9 +4,7 @@ description: Here are some useful online resources to feed your brain!
 
 # Learn
 
-{% hint style="success" %}
 💪 Education is your best investment.
-{% endhint %}
 
 ## 📰 **Security Blogs and Websites**
 
@@ -20,7 +18,7 @@ A blog by journalist Brian Krebs offering in-depth security news and analysis.
 
 Provides the latest cybersecurity news, updates, and expert opinions.
 
-{% embed url="https://thehackernews.com/" %}
+{% embed url="https://www.thehackernews.com/" %}
 
 #### 3. SANS Internet Storm Center
 
@@ -40,7 +38,7 @@ A Linux distribution specifically designed for digital forensics and penetration
 
 #### 2. Metasploit Community
 
-{% embed url="https://www.metasploit.com/" %}
+{% embed url="https://docs.metasploit.com/" %}
 
 #### 3. Wireshark
 
