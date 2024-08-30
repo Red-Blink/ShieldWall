@@ -1,14 +1,14 @@
 ---
-description: >-
-  Here are some useful online resources to feed your brain! Education is your
-  best investment.
+description: Here are some useful online resources to feed your brain!
 ---
 
 # Learn
 
-{% hint style="info" %}
-## **Security Blogs and Websites**
+{% hint style="success" %}
+💪 Education is your best investment.
 {% endhint %}
+
+## **Security Blogs and Websites**
 
 ### 1. Krebs on Security
 
