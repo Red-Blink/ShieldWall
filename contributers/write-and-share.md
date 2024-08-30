@@ -31,7 +31,7 @@ Interested in making a contribution? Read on!
 Before we begin, there are a few things that we anticipate from you (and that you should anticipate from others):
 
 * In your discussions on this project, be courteous and considerate. We all come from diverse backgrounds and cultures, therefore our ideas on "how open source is done" are going to differ. Instead of trying to persuade people that your method is the best, try to listen to them.
-* ShieldWall is released with a Contributor Code of Conduct. By participating in this project, you agree to abide by its terms.
+* ShieldWall is released with a [Disclaimer.](https://www.shieldwall.pro/disclaimer) By participating in this project, you agree to abide by its terms.
 * Please make sure that your contribution passes all tests before submitting a pull request. If there are any test failures, you must fix them before we merge your contribution.
 * If you're going to add content, think about whether it's going to be useful to a lot of people. Please don't include references or links to items you or your employer have made, since others will if they find it useful.
 
