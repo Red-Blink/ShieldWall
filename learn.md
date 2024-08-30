@@ -52,12 +52,6 @@ Nmap is an open-source tool for network discovery and security auditing, used to
 
 {% embed url="https://nmap.org/" %}
 
-#### 5. **Burp Suite**
-
-Burp Suite is a tool for web application security testing, providing features for intercepting traffic, scanning for vulnerabilities, and manual testing.
-
-{% embed url="https://portswigger.net/burp" %}
-
 ## 🧙 **Communities and Forums**
 
 #### 1. Reddit - r/cybersecurity
