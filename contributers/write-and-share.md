@@ -10,11 +10,11 @@ Thank you for visiting the ShieldWall! We're looking forward to hearing from you
 
 ### :notebook\_with\_decorative\_cover: Table of Contents
 
-1. [Types of contributions we're looking for](https://www.lunaguides.com/contributers/write-and-share#types-of-contributions-were-looking-for)
-2. [Ground rules & expectations](https://www.lunaguides.com/contributers/write-and-share#ground-rules-and-expectations)
-3. [How to contribute](https://www.lunaguides.com/contributers/write-and-share#how-to-contribute)
-4. [Style guide](https://www.lunaguides.com/contributers/write-and-share#style-guide)
-5. [Community](https://www.lunaguides.com/contributers/write-and-share#style-guide)
+1. [Types of contributions we're looking for](https://www.shieldwall.pro/contributers/write-and-share#types-of-contributions-were-looking-for)
+2. [Ground rules & expectations](https://www.shieldwall.pro/contributers/write-and-share#ground-rules-and-expectations)
+3. [How to contribute](https://www.shieldwall.pro/contributers/write-and-share#how-to-contribute)
+4. [Style guide](https://www.shieldwall.pro/contributers/write-and-share#style-guide)
+5. [Attribution](https://www.shieldwall.pro/contributers/write-and-share#style-guide)
 
 ### :woman\_construction\_worker: Types of contributions we're looking for
 
