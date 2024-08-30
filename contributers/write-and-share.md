@@ -34,3 +34,20 @@ Before we begin, there are a few things that we anticipate from you (and that yo
 * ShieldWall is released with a Contributor Code of Conduct. By participating in this project, you agree to abide by its terms.
 * Please make sure that your contribution passes all tests before submitting a pull request. If there are any test failures, you must fix them before we merge your contribution.
 * If you're going to add content, think about whether it's going to be useful to a lot of people. Please don't include references or links to items you or your employer have made, since others will if they find it useful.
+
+### :factory: How to Contribute
+
+If you want to contribute, look through the problems and pull requests to see if anyone else has had a similar thought or question.
+
+If your idea isn't listed but you believe it fulfills the purposes of this guide, try one of the following:
+
+* **If your contribution is minor,** such as a typo fix, open a pull request.
+* **If your contribution is major,** such as a new guide, start by opening an issue first. That way, other people can weigh in on the discussion before you do any work.
+
+### :straight\_ruler: Style Guide
+
+If you're writing content, see the style guide to help your prose match the rest of the guides.
+
+### :family\_man\_boy\_boy: Attribution
+
+This contributing guide is adapted from the [opensource.guide](https://github.com/github/opensource.guide).
