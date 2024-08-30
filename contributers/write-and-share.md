@@ -46,7 +46,7 @@ If your idea isn't listed but you believe it fulfills the purposes of this guide
 
 ### :straight\_ruler: Style Guide
 
-If you're writing content, see the [Style Guide](write-and-share.md#style-guide) to help your prose match the rest of the guides.
+If you're writing content, see the [Style Guide](https://www.shieldwall.pro/contributers/style-guide) to help your prose match the rest of the guides.
 
 ### :family\_man\_boy\_boy: Attribution
 
